@@ -3,7 +3,6 @@ class Player
     @player1 = player1
     @pl_runs = []
   end
-  @pl_runs = []
   def add_run(x)
     @pl_runs.push(x)
   end
